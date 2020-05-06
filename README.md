@@ -1,16 +1,7 @@
-# flutter_websockets
+# Connecting flutter to a Node.js websocket server
 
-A new Flutter project.
+### Just a very basic example
 
-## Getting Started
+[Medium article tutorial](https://medium.com/@ottokafka/connecting-flutter-to-nodejs-websocket-8c2f09a3c7c5)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/21117852/81159783-f167f600-8fbb-11ea-846b-00212253d62e.png)
