@@ -1,6 +1,6 @@
 # Connecting flutter to a Node.js websocket server
 
-### Just a very basic example
+### Just a very basic example of how to setup a Node.js websocket server and connect it to a Flutter.
 
 [Medium article tutorial](https://medium.com/@ottokafka/connecting-flutter-to-nodejs-websocket-8c2f09a3c7c5)
 
